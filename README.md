@@ -5,3 +5,5 @@ Stack:-
 React + TypeScript
 HTML
 CSS
+
+Deployed url:- https://fancy-brigadeiros-6e05c7.netlify.app/
